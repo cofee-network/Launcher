@@ -1,10 +1,10 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "CLG pilatre",
+    "preductname": "CLG pilatre",
     "version": "1.3.0",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "description": "Launcher Mincraft du serveur privé CLG pilatre",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "créé avec ❤️ polosteor",
     "url": "http://launcher.polosteor.com",
     "engines": {
         "node": "^18.x.x"
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/cofee-network/Launcher.git"
     }
 }
